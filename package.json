@@ -1,6 +1,6 @@
 {
   "name": "merge-web-dirs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Merge Web dirs",
   "main": "merge.js",
   "scripts": {

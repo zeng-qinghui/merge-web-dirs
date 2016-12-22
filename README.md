@@ -1,4 +1,4 @@
-Require Build
+Merge Web Dirs
 --------------------
 
 ## Install
